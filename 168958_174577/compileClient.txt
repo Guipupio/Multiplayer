@@ -1,0 +1,1 @@
+g++ -o client client.cpp Teclado.cpp -lncurses -lpthread -lportaudio -std=c++11
